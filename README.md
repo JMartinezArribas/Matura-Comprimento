@@ -8,5 +8,3 @@ Tentaremos conhecer esta relação através de um tipos de modelo, tal como:
 
 - Modelo de Regressão Logistica
 
-
-https://pescazproject.github.io/Matura-Comprimento/
